@@ -1,7 +1,5 @@
 # NHP_in_brazil 
 
-test
-
 This repository will contain relevant examples of using odin.dust and mcstate for defining and estimating a model of transmission in non-human primates. These examples are based on the SIR model shared with odin/odin.dust and mcstate packages.
 
 You definitely want to read this: https://mrc-ide.github.io/mcstate/articles/sir_models.html 
